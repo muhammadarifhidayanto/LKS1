@@ -1,0 +1,36 @@
+body{
+	background-color: #eeeeee;
+}
+.login{
+	width: 400px;
+	height: 450px;
+	/*border: 1px solid black;*/
+	box-shadow: 4px 4px gray;
+	border-radius: 20px;
+	position: absolute;
+	background-color: white;
+	margin-top: 100px;
+	margin-left: 35%;
+}
+.judul-login{
+	position: absolute;
+	font-size: 32px;
+	font-weight: bold;
+	margin-left: 150px;
+	margin-top: 30px;
+}
+.form-group{
+	margin-left: 24px;
+	width: 350px;
+}
+.btn-login{
+	margin-top: 50px;
+	width: 350px;
+	margin-left: 24px;
+}
+.form-login{
+	margin-top: 100px;
+}
+.form-group label{
+	font-weight: bold!important;
+}
